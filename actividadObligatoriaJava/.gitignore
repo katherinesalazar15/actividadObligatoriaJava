@@ -1,8 +1,6 @@
-../.DS_Store
-	../.metadata/
-	.DS_Store
-	.classpath
-	.project
-	.settings/
-	bin/
-	src/
+.metadata/
+bin/
+.DS_Store
+.classpath
+.settings/
+.project
